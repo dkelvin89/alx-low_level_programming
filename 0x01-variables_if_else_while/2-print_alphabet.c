@@ -1,6 +1,7 @@
 /*
  * File: 2-print_alphabet.c
- * Auth: Brennan D Baraban
+ * main - Print
+ * Always Return 0
  */
 
 #include <stdio.h>
