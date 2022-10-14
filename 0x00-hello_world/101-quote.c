@@ -3,7 +3,7 @@
 /**
  * main - Prints a text
  *
- * Return: should be 1 (Success)
+ * Return: should be 1
  */
 int main(void)
 {
