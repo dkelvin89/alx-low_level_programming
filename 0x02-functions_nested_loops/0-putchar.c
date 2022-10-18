@@ -3,7 +3,7 @@
  * main- prints _putchar, followed by a newline
  * Author: David Kelvin
  * Return: 0
- */
+*/
 int main(void)
 {
 	_putchar('_');
