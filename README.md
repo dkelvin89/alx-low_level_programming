@@ -1,1 +1,1 @@
-0x00. C - Hello, World, ALX Low level Programming
+0x02. C - Functions, nested loops
