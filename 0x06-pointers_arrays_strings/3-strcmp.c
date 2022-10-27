@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _strcmp - write function that compares two strings.
  * @s1: input
