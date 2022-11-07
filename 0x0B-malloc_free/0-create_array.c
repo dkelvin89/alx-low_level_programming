@@ -3,12 +3,11 @@
 #include <stdlib.h>
 
 /**
- * create_array - a function that creates an array of chars,
+ * create_array- a function that creates an array of chars,
  * and initializes it with a specific char.
  * @size: input
  * @c: input
- *
- * return: output
+ * Return: ar
  */
 
 char *create_array(unsigned int size, char c)
